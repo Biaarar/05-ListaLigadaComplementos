@@ -142,6 +142,10 @@ void inserirElemento()
 
 void excluirElemento()
 {
+	int numero;
+	cout << "Digite o elemento a ser excluido: ";
+	cin >> numero;
+
 
 }
 
